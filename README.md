@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack Software Engineer from Detroit, MI 💿 &nbsp;(home of Motown). &nbsp;I've recently graduated from the online Software Engineering Intensive Bootcamp at the <a href="https://flatironschool.com/career-courses/coding-bootcamp/online">FlatIron School</a>, and am excited to enter the industry as a new Developer!
 
-🔭 &nbsp;&nbsp;Currently, I'm working on <a href="https://github.com/tomasmed/AmazonWarriors">Amazon Warriors</a>. An action-adventure, Portuguese-language learning video game.<br/>
 🌱 &nbsp;&nbsp;I'm currently learning Python through <a href="https://hackbrightacademy.com/software-engineering-program/">HackBright Academy</a> <br/>
 👯 &nbsp;&nbsp;I'm looking to collaborate on anything! I'm always open to learning new skills. <br/>
 📫 &nbsp;&nbsp;Feel free to email me at qfuggett@gmail.com, if you'd like to get in touch.  <br/>
