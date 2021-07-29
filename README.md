@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a Full-Stack Software Engineer from Detroit, MI 💿 &nbsp;(home of Motown).&nbsp;I'm a recent graduate from 2 Software Engineering Bootcamps:
 <a href="https://flatironschool.com/career-courses/coding-bootcamp/online">FlatIron School</a> and <a href="https://hackbrightacademy.com/software-engineering-program/">HackBright Academy</a> and am excited to work in the field!
 
-🌱 &nbsp;&nbsp;I'm currently learning TypeScript, React and Redux! <br/>
+🌱 &nbsp;&nbsp;I'm currently learning TypeScript, GraphQL, React and Redux! <br/>
 👯 &nbsp;&nbsp;I'm looking to collaborate on anything! I'm always open to learning new skills. <br/>
 📫 &nbsp;&nbsp;Feel free to email me at qfuggett@gmail.com, if you'd like to get in touch.  <br/>
 
