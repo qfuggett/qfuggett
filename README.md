@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full-Stack Software Engineer from Detroit, MI 💿 &nbsp;(home of Motown).&nbsp;I'm a graduate from 2 Software Engineering Bootcamps:
-<a href="https://flatironschool.com/career-courses/coding-bootcamp/online">FlatIron School</a> and <a href="https://hackbrightacademy.com/software-engineering-program/">HackBright Academy</a> and am excited to work in the field!
+I'm a Full-Stack Software Engineer from Detroit, MI 💿 &nbsp;
 
-🌱 &nbsp;&nbsp;I'm currently focusing on Django, React & C#. My current project is a scary horror game - <a href="https://github.com/qfuggett/DemonOfTheStrait">Demon of the Strait.</a><br/>
+🌱 &nbsp;&nbsp;My current projects are a scary horror game, <a href="https://www.demonofthestrait.com">Demon of the Strait</a>, and <a href="https://www.withembodied.com">EMbodied</a>, a women's health app.<br/>
 👯 &nbsp;&nbsp;I'm looking to collaborate on anything! I'm always open to learning new skills. <br/>
 📫 &nbsp;&nbsp;Feel free to email me at qfuggett@gmail.com, if you'd like to get in touch.  <br/>
 
@@ -27,6 +26,7 @@ I'm a Full-Stack Software Engineer from Detroit, MI 💿 &nbsp;(home of Motown).
 ✨ &nbsp;Javascript (React.js, Redux.js, React Native)<br/>
 🐍 &nbsp;Python (Django)<br/>
 💎 &nbsp;Ruby (Ruby on Rails) <br/>
+༗ &nbsp;Swift <br/>
 🐘 &nbsp;PostgresSQL&nbsp;&nbsp;🎩 &nbsp;Sinatra&nbsp;&nbsp;🧡 &nbsp;HTML & CSS&nbsp;&nbsp;🐱 &nbsp;Github&nbsp;&nbsp;⭐ &nbsp;OAuth
 
 
