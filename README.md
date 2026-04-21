@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack Software Engineer from Detroit, MI 💿 &nbsp;
 
-🌱 &nbsp;&nbsp;My current projects are a scary horror game, <a href="https://www.demonofthestrait.com">Demon of the Strait</a>, and <a href="https://www.withembodied.com">EMbodied</a>, a women's health app.<br/>
-👯 &nbsp;&nbsp;I'm looking to collaborate on anything! I'm always open to learning new skills. <br/>
-📫 &nbsp;&nbsp;Feel free to email me at qfuggett@gmail.com, if you'd like to get in touch.  <br/>
+🌱 &nbsp;&nbsp;My current projects are a scary horror game, <a href="https://www.demonofthestrait.com">Demon of the Strait</a>, <a href="https://withembodied.com/">EMbodied</a>, a women's health app, and <a href="https://juicetracker.com/">Rejuvenate</a>, a juicing tracker app. 📫 &nbsp;Feel free to email me at qfuggett@gmail.com, if you'd like to get in touch.  <br/>
 
 ### Skills 
 🎮 &nbsp;C# (used in Unity 3d) <br/>
