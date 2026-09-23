@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack Software Engineer from Detroit, MI 💿 &nbsp;
 
-🌱 &nbsp;&nbsp;My current projects are a scary horror game, <a href="https://www.demonofthestrait.com">Demon of the Strait</a>, <a href="https://withembodied.com/">EMbodied</a>, a women's health app, and <a href="https://juicetracker.com/">Rejuvenate</a>, a juicing tracker app. 📫 &nbsp;Feel free to email me at qfuggett@gmail.com, if you'd like to get in touch.  <br/>
+🌱 &nbsp;&nbsp;My current projects are a scary horror game, <a href="https://www.demonofthestrait.com">Demon of the Strait</a>, <a href="https://withembodied.com/">EMbodied</a>, a women's health app, and <a href="https://detroitblightindex.netlify.app">The Detroit Blight Improvement Index</a>, a tool that maps neighborhood blight and beautification improvement/decay scores within the Detroit city limits.
+
+<p>Check out my finished projects:
+<a href="https://juicetracker.com/">Rejuvenate</a>, a juicing tracker app, and 
+<a href="https://quintstudios.com/sweep">Sweep Unfollowers</a>, an Instagram unfollowers app. </p>
+📫 &nbsp;Feel free to email me at qfuggett@gmail.com, if you'd like to get in touch.  <br/>
 
 ### Skills 
-🎮 &nbsp;C# (used in Unity 3d) <br/>
-✨ &nbsp;Javascript (React.js, Redux.js, React Native)<br/>
+🎮 &nbsp;C# (Unity 3d); C++ (Unreal Engine) <br/>
+✨ &nbsp;Javascript (React.js, Redux.js, React Native, Next.js, Typescript)<br/>
 🐍 &nbsp;Python (Django)<br/>
 💎 &nbsp;Ruby (Ruby on Rails) <br/>
 ༗ &nbsp;Swift <br/>
